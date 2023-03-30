@@ -67,6 +67,7 @@ body {
 .link {
     cursor: pointer;
     text-decoration: none;
+    color: inherit;
 }
 
 .link:hover,
